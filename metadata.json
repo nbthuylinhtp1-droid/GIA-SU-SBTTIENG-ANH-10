@@ -1,0 +1,6 @@
+{
+  "name": "Thử Thách 60 Giây – LAB Master",
+  "description": "Ứng dụng ôn tập nhanh toàn bài môn Tiếng Anh 10 Global Success với thử thách 60 giây của ThS. NGƯT Nguyễn Bùi Thùy Linh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
